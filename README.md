@@ -1,3 +1,3 @@
 # Simon Game
 
-Website que simula o clássico 'Simon Game', produzido utilizando JQuery, JavaScript, HTML, Css e Botsrap.
+Website that simulates the famous'Simon Game', made with JQuery, JavaScript, HTML, Css e Botsrap.
